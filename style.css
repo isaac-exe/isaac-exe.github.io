@@ -33,8 +33,17 @@ a {
   bottom: 50px;
   font-size: 1.7vw;
   position: absolute;
-  left: 60%;
+  left: 80%;
   float: right;
+  transform: translateX(-50%);
+}
+
+.splash_portfolio {
+  position: absolute;
+  bottom: 50px;
+  font-size:  1.7vw;
+  position: absolute;
+  left: 50%;
   transform: translateX(-50%);
 }
 
@@ -43,7 +52,7 @@ a {
   bottom: 50px;
   font-size: 1.7vw;
   position: absolute;
-  left: 40%;
+  left: 20%;
   float: left;
   transform: translateX(-50%);
   }
