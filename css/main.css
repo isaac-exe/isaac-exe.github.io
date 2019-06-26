@@ -264,6 +264,10 @@ textarea {
   }
 }
 
+* {
+  background-color: #fff;
+}
+
 .main-container {
   margin: 3em auto auto;
   width: 80%;

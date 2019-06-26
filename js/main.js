@@ -2,8 +2,9 @@ var about = 'Hi I\'m Isaac. Thanks for visiting my website.\n' +
   '<br> <br>\n' +
   'I\'m a rising senior at Carleton College majoring in Cinema and Media Studies. Along with fiction narrative filmmaking\n' +
   'I\'m interested in tech, music, start-ups and product design. I\'ve worked at two summer camps, an IT help-desk, an\n' +
-  'architecture firm, and one of the best commercial production companies in the world. Along the way I\'ve learned how\n' +
-  'to do copywriting, web development, photography, videography, editing, and much more.\n' +
+  'architecture firm, and one of the best commercial production companies in the world. ' +
+  'Right now I\'m interning at <a href="https://angel.co/company/pangaea-holdings" target="_blank"> Pangaea</a>. ' +
+  'Along the way I\'ve learned how to do copywriting, web development, photography, videography, editing, and much more.\n' +
   '<br> <br>\n' +
   'Check out my stuff and drop a line if you\'re looking for an intern/freelance help, or just want to talk.';
 
