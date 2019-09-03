@@ -1,0 +1,24 @@
+div.main-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-flow: column;
+    padding: 10px 0;
+}
+
+div.top-container, div.link-list-container {
+    width: 90%;
+    margin: 50px auto;
+}
+
+p.about, a {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+h1 {
+    font-size: 72px !important;
+}
